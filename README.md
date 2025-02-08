@@ -6,20 +6,7 @@ Hosted Link : https://the-regiment.vercel.app/
 - Node.js (v14 or later)
 - npm or yarn
 
-### Installation
-1. Clone the repository:
-   ```sh
-   git clone <repo-url>
-   cd task-management-app
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the development server:
-   ```sh
-   npm run dev
-   ```
+
 
 ## Tech Stack
 - **React** (with TypeScript)
@@ -31,27 +18,11 @@ Hosted Link : https://the-regiment.vercel.app/
 - **Routing:** Navigate between dashboard, task details, and add/edit task pages.
 - **Responsive UI:** Styled using CSS for a clean and adaptive layout.
 
-## Project Structure
-```
-├── src
-│   ├── components        # Reusable UI components
-│   ├── pages             # Page components for different routes
-│   ├── routes            # Application routes
-│   ├── styles            # Global styles
-│   ├── App.tsx           # Main application component
-│   ├── main.tsx          # Entry point
-│   ├── types.ts          # TypeScript interfaces
-│
-├── public                # Static assets
-├── package.json          # Dependencies and scripts
-├── tsconfig.json         # TypeScript configuration
-└── README.md             # Project documentation
-```
 
 ## Available Scripts
 - `npm run dev` - Start the development server
 - `npm run build` - Build the project for production
-- `npm run lint` - Run linting checks
+
 
 ## TypeScript State Structure
 ```ts
