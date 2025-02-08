@@ -1,7 +1,7 @@
 # Task Management App
 
 ## Project Setup
-Hosted Link : 
+Hosted Link : https://the-regiment.vercel.app/
 ### Prerequisites
 - Node.js (v14 or later)
 - npm or yarn
